@@ -3,7 +3,7 @@
 SmartyView replaces the default Laravel View class with the 
 [Smarty Template Engine](http://smarty.net/).
 
-Included Smarty version: 3.1.11
+Included Smarty version: 3.1.13
 
 ## Installation ##
 
